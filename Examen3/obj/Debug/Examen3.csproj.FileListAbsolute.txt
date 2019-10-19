@@ -1,0 +1,7 @@
+C:\Users\raul__000\source\repos\Examen3\Examen3\bin\Debug\Examen3.exe.config
+C:\Users\raul__000\source\repos\Examen3\Examen3\bin\Debug\Examen3.exe
+C:\Users\raul__000\source\repos\Examen3\Examen3\bin\Debug\Examen3.pdb
+C:\Users\raul__000\source\repos\Examen3\Examen3\obj\Debug\Examen3.csprojAssemblyReference.cache
+C:\Users\raul__000\source\repos\Examen3\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
+C:\Users\raul__000\source\repos\Examen3\Examen3\obj\Debug\Examen3.exe
+C:\Users\raul__000\source\repos\Examen3\Examen3\obj\Debug\Examen3.pdb
